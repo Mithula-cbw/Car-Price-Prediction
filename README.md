@@ -7,7 +7,7 @@ Heart_Attack_Prediction_App/
 ├── data/                    # Dataset file
 ├── notebooks/               # Jupyter notebooks for exploration and modeling
 ├── app/                     # Web code
-├── Docs/                    # Documentations. report and proposal
+├── docs/                    # Documentations. report and proposal
 ├── requirements.txt         # Required Python packages
 ├── README.md                # Project documentation
 └── model.pkl                # Trained machine learning model
