@@ -1,0 +1,8 @@
+[project]
+name = "student-depression-predictor"
+version = "0.1.0"
+description = "A machine learning model to predict depression risk in university students"
+authors = [
+    {name = "Amanda", email = "amaseww@gmail.com"}
+]
+requires-python = ">=3.10"
