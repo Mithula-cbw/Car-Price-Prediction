@@ -20,3 +20,6 @@ venv/
 *.csv
 *.json
 data
+notebooks/Group_11_05_Modeling_and_Evaluation copy.ipynb
+
+models
